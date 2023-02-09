@@ -3,3 +3,4 @@ venv
 .idea
 mail.json
 __pycache__
+text.txt
